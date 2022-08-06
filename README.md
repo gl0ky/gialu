@@ -35,3 +35,48 @@ Nos dirigimos a la pagina de Rufus: https://rufus.ie/es/, descargaremos el insta
 > **Nota:** Omitiremos este paso en caso de que fueramos a hacer una instalacion en una maquina virtual.
 
 ![](https://github.com/gl0ky/gialu/blob/master/arch-install/images/rufus-1.png?raw=true)
+
+Luego descargaremos la ISO de Arch linux: https://archlinux.org/
+
+
+Nos dirigimos al apartado de descargas en el panel superior.
+
+![](https://github.com/gl0ky/gialu/blob/master/images/iso-1.png?raw=true)
+
+Seleccionamos cualquiera de los links en el apartado de World Wide.
+
+![](https://github.com/gl0ky/gialu/blob/master/images/iso-2.png?raw=true)
+
+Descargamos la imagen de 64 Bits del sistema operativo.
+
+![](https://github.com/gl0ky/gialu/blob/master/images/iso-3.png?raw=true)
+
+Bien, luego que tengamos esto, procederemos con la creacion del medio de instalacion.
+
+> **Nota:** en caso de instalar en una maquina virtual, no necesitamos crear un medio de instalacion, con descargar la ISO de arch sera suficiente ;).
+
+1. Primero instalamos el programa para crear el medio de instalacion, Rufus.
+
+ *Ejecutas el programa y next, next, next lol.*
+
+2. Conectamos el USB, abrimos Rufus, y seleccionamos nuestra memoria USB en el menu de seleccion.
+
+ ![](https://github.com/gl0ky/gialu/blob/master/images/booteable-1.png?raw=true)
+
+3. Seleccionamos la ubicacion donde descargamos la ISO de nuestro Arch.
+
+ ![](https://github.com/gl0ky/gialu/blob/master/images/booteable-2.png?raw=true)
+ 
+ ![](https://github.com/gl0ky/gialu/blob/master/images/booteable-3.png?raw=true)
+
+4. Seleccionamos el esquema de particiones GPT.
+
+ ![](https://github.com/gl0ky/gialu/blob/master/images/booteable-4.png?raw=true)
+ 
+5. Elegimos un nombre para nuestro medio de instalacion, y seleccionamos empezar.
+ 
+ ![](https://github.com/gl0ky/gialu/blob/master/images/booteable-5.png?raw=true)
+  
+6. Especificamos que queremos escribir la imagen en modo ISO.
+
+  ![](https://github.com/gl0ky/gialu/blob/master/images/booteable-6.png?raw=true)

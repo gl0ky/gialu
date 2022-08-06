@@ -32,6 +32,6 @@ Primero crearemos una USB booteable para la instalacion de nuestro sistema, para
 
 Nos dirigimos a la pagina de Rufus: https://rufus.ie/es/, descargaremos el instalador del programa para poder crear nuestro medio de instalacion
 
-> **Nota: ** Omitiremos este paso en caso de que fueramos a hacer una instalacion en una maquina virtual.
+> **Nota:** Omitiremos este paso en caso de que fueramos a hacer una instalacion en una maquina virtual.
 
 ![](https://github.com/gl0ky/gialu/blob/master/arch-install/images/rufus-1.png?raw=true)
